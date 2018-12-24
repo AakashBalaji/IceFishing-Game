@@ -1,4 +1,4 @@
-# IceFishing-Game
+# IceFishing-Game (C++)
 
 Our implementation of the Arduino Micro Arcade
 
